@@ -38,10 +38,12 @@ npm run dev
 🌍 Deployment
 The project can be deployed easily on GitHub Pages, Vercel, or Netlify for free hosting.
 
-📸 Screenshots
-🖥️ Desktop View
+## 📸 Screenshots
+
+### 🖥️ Desktop View
 ![Desktop Screenshot](screenshots/desktop.png)
-📱 Mobile View
+
+### 📱 Mobile View
 ![Mobile Screenshot](screenshots/mobile.png)
 
 📎 License
