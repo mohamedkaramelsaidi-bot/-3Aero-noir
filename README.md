@@ -40,10 +40,9 @@ The project can be deployed easily on GitHub Pages, Vercel, or Netlify for free 
 
 📸 Screenshots
 🖥️ Desktop View
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
+![Desktop Screenshot](screenshots/desktop.png)
 📱 Mobile View
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+![Mobile Screenshot](screenshots/mobile.png)
 
 📎 License
 This project is licensed under the MIT License – feel free to use, modify, and distribute it.
